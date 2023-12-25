@@ -1,0 +1,8 @@
+# env files
+/env
+*.env
+.env.local
+
+# local files
+/todo
+todo.txt
